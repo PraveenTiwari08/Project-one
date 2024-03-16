@@ -1,0 +1,76 @@
+.one{
+  border: 1px solid black;
+  padding: 10px;
+  padding-bottom: 30px;
+  margin-bottom: 25px;
+}
+
+.one h1{
+  text-decoration: underline;
+}
+
+span{
+  font-style: italic;
+  font-weight: bold;
+  background-color:  rgb(255, 253, 208);
+}
+
+a{
+  color: black;
+  
+  background-color: rgb(156, 156, 156);
+  padding: 8px;
+  border-radius: 10px;
+}
+
+img{
+  height: 300px;
+  display: flex;
+}
+
+.two{
+  margin: 20px;
+  padding: 10px;
+  margin-left: 0;
+}
+
+.two a{
+  background-color: rgb(122, 79, 79);
+  border-radius: 10px;
+  padding: 10px;
+  color: aliceblue;
+}
+
+
+.anchorimg{
+  font-size: 25px;
+  font:bold ;
+}
+
+.head{
+  text-decoration: underline;
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+ol{
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+li{
+  padding-top:1px;
+  padding-bottom: 2px;
+}
+
+hr{
+  border: 1px dashed;
+}
+
+.third{
+  margin-top: 3%;
+  background-color: orange;
+  padding: 5px;
+  border-radius:10px ;
+}
+
